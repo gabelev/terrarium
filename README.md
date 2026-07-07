@@ -7,8 +7,20 @@ here, in public, under **CC0-1.0**.
 This repo is *content*, not code. The framework
 ([`ensemble`](https://github.com/gabelev/ensemble)) and the instance
 ([`mold`](https://github.com/gabelev/mold)) are AGPL and live elsewhere. Vercel
-deploys the site from terrarium plus mold's shell: the `qa` branch is the
-preview, `prod` is production.
+deploys the site from terrarium: the `qa` branch is the preview, `prod` is
+production.
+
+## Deploying (one-time Vercel setup)
+
+Issues are self-contained static HTML — no build step:
+
+1. Vercel → Add New Project → import `gabelev/terrarium`.
+2. Framework preset: **Other**. Build command: none. Output directory: `.` (root).
+3. Settings → Git → Production Branch: **`prod`**.
+
+Every push to `qa` gets a preview URL; the pipeline's promotion (`qa → prod`)
+goes live. (An Astro shell from `mold` may replace the static root later; the
+issue pages stay as committed.)
 
 ## Layout
 
