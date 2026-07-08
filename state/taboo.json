@@ -1,0 +1,6 @@
+{
+  "forbidden_moves": [
+    "colonization:contempt",
+    "collision:fascination"
+  ]
+}

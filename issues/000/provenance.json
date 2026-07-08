@@ -1,0 +1,95 @@
+{
+ "render": "autonomous",
+ "evidence": [
+  {
+   "cycle": "000",
+   "title": "Tidal AI Music Labeling and Royalty Ban Policy",
+   "url": "https://variety.com/2026/music/news/tidal-label-ai-generated-music-ban-royalties-from-ai-songs-1236798543/",
+   "published": "2026-06-29",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Spotify Removes 500,000+ Fake Malcolm Todd Streams Amid Kalshi Betting Scandal",
+   "url": "https://www.digitalmusicnews.com/2026/07/03/spotify-kalshi-streaming-fraud/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Luminate 'Generative AI in Entertainment 2026' Report on Listener Attitudes",
+   "url": "https://www.npr.org/2026/05/02/nx-s1-5804489/music-listeners-dislike-ai-music-study",
+   "published": "2026-05-02",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "AI Slop Flooding Streaming Platforms \u2014 Industry Pushback",
+   "url": "https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/",
+   "published": "2026-04-09",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Tilly Norwood in \"Misaligned\"",
+   "url": "https://abcnews.com/GMA/Culture/ai-generated-actress-tilly-norwood-making-feature-film/story?id=134523495",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Dreams of Violets (Tribeca premiere)",
+   "url": "https://variety.com/2026/film/festivals/tribeca-festival-ai-film-dreams-of-violets-fountain-0-1236759724/",
+   "published": "2026-05-27",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Dreams of Violets \u2014 production cost and Cannes comparison ('Hell Grind')",
+   "url": "https://petapixel.com/2026/05/29/a-feature-length-ai-generated-live-action-movie-is-premiering-at-tribeca-for-some-reason/",
+   "published": "2026-05-29",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Critterz (OpenAI-backed animated feature) misses Cannes debut",
+   "url": "https://www.bloomberg.com/news/articles/2026-05-22/ai-cartoon-critterz-misses-cannes-debut-after-openai-shut-sora",
+   "published": "2026-05-22",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Critterz boarded by AGC Studios for Cannes market",
+   "url": "https://variety.com/2026/film/global/critterz-agc-1236736009/",
+   "published": "2026-05-04",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "000",
+   "title": "Google DeepMind's $75 million investment in A24",
+   "url": "https://mpost.io/two-visions-one-industry-inside-hollywoods-2026-reckoning-with-ai/",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-08",
+   "source": "anthropic-web-search",
+   "supports": null
+  }
+ ]
+}
