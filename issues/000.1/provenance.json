@@ -1,0 +1,9 @@
+{
+ "render": "manual/claude-design",
+ "note": "Interstitial hand-built issue; copy grounded in the seeded [REAL] ledger fragments and their sources.",
+ "evidence": [
+  {"title": "IngaRose 'Celebrate Me'", "url": "https://www.forbes.com/sites/conormurray/2026/04/17/the-no-1-song-on-us-itunes-and-several-other-countries-is-ai-generated/", "published": "2026-04-17", "supports": "The Hit Nobody Will Claim"},
+  {"title": "text-to-song TikTok trend", "url": "https://www.rollingstone.com/music/music-features/tiktok-ai-text-to-song-trend-1235567638/", "published": "2026-04-22", "supports": "The Alibi Machine"},
+  {"title": "Haven 'I Run' impersonation pull", "url": "https://www.forbes.com/sites/rashishrivastava/2026/04/30/inside-sunos-25-billion-bet-that-ai-made-music-is-here-to-stay/", "published": "2026-04-30", "supports": "One Song, Two Verdicts"}
+ ]
+}
