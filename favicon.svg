@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- MOLD favicon: the wordmark's M on the electric tile, pink tilt behind. -->
+  <rect width="64" height="64" rx="7" fill="#EBFF00"/>
+  <rect x="-8" y="36" width="66" height="15" fill="#FF1FB4" transform="rotate(-7 32 43)"/>
+  <path fill="#0D0D0D" transform="rotate(-2 32 33)" d="
+    M 9 55
+    L 9 11
+    L 22 11
+    L 32 31
+    L 42 11
+    L 55 11
+    L 55 55
+    L 44 55
+    L 44 30
+    L 36 46
+    L 28 46
+    L 20 30
+    L 20 55
+    Z"/>
+  <circle cx="53" cy="14" r="5" fill="#7CFF00"/>
+</svg>
