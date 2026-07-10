@@ -1,8 +1,29 @@
 # Claude Design brief — MOLD Issue 000: Generated
 
 Design ONE bespoke, infinite-scroll issue page for MOLD, an autonomous zine
-about AI culture. Ray Gun but AI: the design IS the editorial position; the
-form of each piece must enact the writer's stance toward its subject.
+about AI culture. Ray Gun / David Carson but AI: the design IS the editorial
+position; the form of each piece must ENACT the writer's stance toward it.
+
+## THE LOOK — BOLD, LOUD, ELECTRIC (this is the whole brief)
+Match the MOLD home page's energy — maximal confidence, clashing saturated
+color, huge display type, scale violence, tilted/colliding elements. This is a
+long-form reading page, so keep the body copy genuinely readable, but spend all
+the chaos on the masthead, headlines, folios, pull-quotes and margins.
+
+DO NOT use muted, earthy, "biological/petri" colors (moss green, teal, beige,
+sludge). That look is dead. Use the electric MOLD palette:
+- ink `#0D0D0D` (near-black ground)   - electric yellow `#EBFF00`
+- hot pink `#FF1FB4`                   - klein blue `#2418FF`
+- acid green `#7CFF00`                 - orange `#FF6A00`
+- bone `#F4F1E8` (off-white body text on the dark ground)
+Near-black gallery ground, off-white body, and ONE electric accent shouting per
+piece (color-block inverted sections — e.g. a full electric-yellow block with
+black type — are very on-brand). If a competent designer would call it "too
+much," it's right.
+
+Suggested type: a heavy display face (Anton / Bricolage Grotesque / Archivo
+Black), a dramatic italic serif for deks/quotes (Fraunces / Instrument Serif),
+a readable serif for body (Newsreader), and a mono for labels (Space Mono).
 
 ## The issue
 - Theme (precipitated from the public ledger, named last): **Generated**
@@ -20,28 +41,19 @@ form of each piece must enact the writer's stance toward its subject.
 - dek: The Culture Writer on why Tidal's AI royalty ban does something Spotify and Apple's disclosure rules don't.
 - declared stance: **fascination** (the form must ENACT this)
 - opens: There's a gap opening between two kinds of platform sentences, and it's worth sitting inside it before the industry averages them out into one boring compliance memo. Spotify and Apple's language, per existing distributo…
+Accent to dominate this issue (the Art Director's pick — one loud color): **bruise**
 
-## Palette (the biological family — issue pages stay in it)
-- `substrate`: `#0a0f0c`
-- `agar`: `#e8e4d8`
-- `viridian`: `#1f7a6d`
-- `chartreuse`: `#9acd32`
-- `sulphur`: `#d4c53a`
-- `bruise`: `#8b2f6b`
-- `spore`: `#4a5548`
-Accent chosen by the Art Director this issue: **bruise**
-(gamut: accents ['viridian', 'chartreuse', 'sulphur', 'bruise']; the bruise never exceeds ~15% coverage)
+## Constraint active this issue (a structural provocation to obey)
+- **house**
 
-## Constraint active this issue (obey it)
-- **no-agar**
-
-## Taboo — moves used LAST issue, forbidden now
-- (none — first issue)
+## Taboo — moves used LAST issue, forbidden now (keep it never-the-same)
+- decay:contempt
+- colonization:fascination
 
 ## What the autonomous Art Director chose (reference, not obligation)
-- piece-0: colonization {'coverage': 0.85, 'base_frequency': 0.058, 'accent': 'bruise', 'section': 'piece-0'}
-- piece-1: collision {'angle': 7.6, 'overlap': 0.14, 'section': 'piece-1'}
-- rationale: The AI-film piece gets smothered by an invasive, high-frequency colonization skin in bruise tones to visualize contempt for synthetic ventriloquism claiming documentary authority, while the footnote piece is rendered as a near-miss collision whose thin overlap and sharp angle hold open the fascinating gap the writer refuses to close.
+- piece-0: scale-violence {'ratio': 4.5, 'accent': 'bruise', 'section': 'piece-0'}
+- piece-1: broken-column {'columns': 2.0, 'jitter': 5.5, 'section': 'piece-1'}
+- rationale: Under the issue's 'house' constraint, contempt gets blown into a lopsided monument (scale-violence) while fascination gets literally housed in two unstable rooms (broken-column) before the industry paves over the gap.
 
 ## Hard constraints (non-negotiable)
 - One self-contained HTML file: inline CSS, Google Fonts links OK, no frameworks.
