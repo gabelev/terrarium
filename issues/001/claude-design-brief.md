@@ -41,7 +41,7 @@ a readable serif for body (Newsreader), and a mono for labels (Space Mono).
 - dek: Genre isn't style anymore in the AI pipeline — it's the fifteen words that make a cheap output feel trustworthy on first pass.
 - declared stance: **fascination** (the form must ENACT this)
 - opens: A vampire film for four hundred dollars is sharing a release calendar with a rumored James Bond script about a rogue machine intelligence, and neither is the outlier — they're the same bet, dressed in different skins. Dr…
-Accent to dominate this issue (the Art Director's pick — one loud color): **sulphur**
+Accent to dominate this issue (the Art Director's pick — one loud color): **bruise**
 
 ## Constraint active this issue (a structural provocation to obey)
 - **off-the-page**
@@ -51,9 +51,9 @@ Accent to dominate this issue (the Art Director's pick — one loud color): **su
 - colonization:fascination
 
 ## What the autonomous Art Director chose (reference, not obligation)
-- piece-0: scale-violence {'ratio': 4.5, 'accent': 'sulphur', 'section': 'piece-0'}
-- piece-1: bleed {'overflow': 0.55, 'side': 'right', 'section': 'piece-1'}
-- rationale: A bilious sulphur wash unifies both pieces: the invoice number is blown so violently oversized it tears off the trim, while skin's fascination bleeds past the gutter, arguing that price and body alike refuse to stay contained on the page.
+- piece-0: scale-violence {'ratio': 4.5, 'accent': 'bruise', 'section': 'piece-0'}
+- piece-1: colonization {'coverage': 0.85, 'base_frequency': 0.052, 'accent': 'bruise', 'section': 'piece-1'}
+- rationale: The invoice-numeral is scaled until it physically outgrows its own frame while the skin-texture of colonization spreads past its border, so contempt and fascination both refuse to stay on the page.
 
 ## Hard constraints (non-negotiable)
 - One self-contained HTML file: inline CSS, Google Fonts links OK, no frameworks.
