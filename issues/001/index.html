@@ -10,14 +10,14 @@
 <title>MOLD — Issue 001: Skin Deep</title>
 <style>
 :root {
-  --substrate: #0a0f0c;
-  --agar: #e8e4d8;
-  --viridian: #1f7a6d;
-  --chartreuse: #9acd32;
-  --sulphur: #d4c53a;
-  --bruise: #8b2f6b;
-  --spore: #4a5548;
-  --accent: #d4c53a;
+  --substrate: #0d0d0d;
+  --agar: #f4f1e8;
+  --viridian: #2418ff;
+  --chartreuse: #7cff00;
+  --sulphur: #ebff00;
+  --bruise: #ff1fb4;
+  --spore: #8a8f98;
+  --accent: #ebff00;
   --display: "Bricolage Grotesque", system-ui, sans-serif;
   --serif: "Fraunces", Georgia, serif;
   --body: "Newsreader", Georgia, serif;
@@ -38,7 +38,7 @@ header.masthead::before {
   content: ""; position: absolute; inset: -8%; z-index: -1;
   background:
     radial-gradient(ellipse 70% 55% at 12% 82%, var(--accent), transparent 60%),
-    radial-gradient(ellipse 48% 38% at 88% 18%, #8b2f6b88, transparent 70%);
+    radial-gradient(ellipse 48% 38% at 88% 18%, #ff1fb488, transparent 70%);
   filter: url(#bloom); opacity: 0.55;
 }
 .folio-top {
@@ -78,7 +78,7 @@ section.piece {
   position: relative; padding: 12vh clamp(1.5rem, 5vw, 5rem);
   display: grid; column-gap: clamp(1.5rem, 4vw, 4rem);
   grid-template-columns: minmax(0, 1fr) minmax(0, 44rem) minmax(0, 1fr);
-  border-top: 1px solid #4a554844;
+  border-top: 1px solid #8a8f9844;
 }
 section.piece > * { grid-column: 2; }   /* content column by default */
 section.piece .folio {
@@ -94,10 +94,10 @@ section.piece .kicker {
 section.piece .headline {
   font-family: var(--display); font-weight: 800; text-transform: uppercase;
   font-size: clamp(2.4rem, 9vw, 6.5rem); line-height: 0.86; letter-spacing: -0.03em;
-  color: var(--agar); margin-bottom: 1.4rem;
+  color: var(--accent); margin-bottom: 1.4rem;
 }
 section.piece .dek {
-  font-family: var(--serif); font-style: italic; color: var(--accent);
+  font-family: var(--serif); font-style: italic; color: var(--agar);
   font-size: clamp(1.15rem, 2.6vw, 1.6rem); line-height: 1.3; margin-bottom: 3rem; max-width: 34ch;
 }
 section.piece .pullquote {
@@ -130,30 +130,22 @@ footer {
 footer a { color: var(--viridian); }
 /* ---- composed primitives (this issue's moves) ---- */
 
-/* bleed: piece-0 (right) */
-#piece-0 .headline {
+/* scale-violence: piece-0 */
+#piece-0 .body > p:first-of-type::first-letter {
+  float: left; font-family: var(--display); font-weight: 800; line-height: 0.7;
+  font-size: 14.4em; padding: 0.02em 0.12em 0 0; margin-top: 0.06em;
+  color: #ebff00; -webkit-text-stroke: 1px #0d0d0d;
+}
+#piece-0 .headline { font-size: clamp(2rem, 12vw, 8rem); }
+
+
+/* bleed: piece-1 (right) */
+#piece-1 .headline {
   font-size: clamp(3rem, 20vw, 14rem); line-height: 0.82; letter-spacing: -0.05em;
-  margin-right: -23vw; max-width: none; white-space: nowrap;
-  color: #d4c53a; text-align: right;
+  margin-right: -22vw; max-width: none; white-space: nowrap;
+  color: #ebff00; text-align: right;
 }
-@media (max-width: 720px) { #piece-0 .headline { white-space: normal; margin-right: -4vw; font-size: clamp(2.4rem, 15vw, 5rem); } }
-
-
-/* colonization: piece-1 */
-#piece-1 { position: relative; isolation: isolate; }
-#piece-1::after {
-  content: ""; position: absolute; inset: -6%; pointer-events: none;
-  background:
-    radial-gradient(ellipse 120% 60% at 8% 108%, #1f7a6ddd, transparent 62%),
-    radial-gradient(ellipse 60% 44% at 92% 96%, #1f7a6d99, transparent 70%);
-  filter: url(#bloom); mix-blend-mode: screen; opacity: 0; z-index: 2;
-}
-@supports (animation-timeline: view()) {
-  #piece-1::after { animation: colonize-piece-1 linear both; animation-timeline: view(); animation-range: entry 0% cover 88%; }
-  @keyframes colonize-piece-1 { from { opacity: 0; transform: translateY(10%) scale(1.03); } to { opacity: 0.87; transform: none; } }
-}
-@supports not (animation-timeline: view()) { #piece-1::after { opacity: 0.63; } }
-@media (prefers-reduced-motion: reduce) { #piece-1::after { animation: none; opacity: 0.52; } }
+@media (max-width: 720px) { #piece-1 .headline { white-space: normal; margin-right: -4vw; font-size: clamp(2.4rem, 15vw, 5rem); } }
 
 </style>
 </head>
