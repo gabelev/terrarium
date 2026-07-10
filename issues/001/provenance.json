@@ -1,0 +1,203 @@
+{
+ "render": "autonomous",
+ "evidence": [
+  {
+   "cycle": "001",
+   "title": "Polymarket prediction market: \"Will another AI-generated song reach number 1 on any Billboard chart by June 30?\"",
+   "url": "https://polymarket.com/event/will-another-ai-generated-song-reach-number-1-on-any-billboard-chart-by-june-30",
+   "published": "2026-06-18",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "\"The Five Stories Defining AI Music's First Half of 2026\" (Zinstrel report on lawsuits, Warner/Sureel AI deal, Spotify streaming changes)",
+   "url": "https://zinstrel.substack.com/p/the-five-stories-defining-ai-musics",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Tidal's New AI-Generated Music Labeling and Royalty Ban Policy",
+   "url": "https://variety.com/2026/music/news/tidal-label-ai-generated-music-ban-royalties-from-ai-songs-1236798543/",
+   "published": "2026-06-29",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Sony Music vs. Suno Copyright Lawsuit Summary Judgment Hearing",
+   "url": "https://www.forbes.com/sites/entertainment/article/ai-music-artists/",
+   "published": "2026-06-26",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Deezer's 44% AI Upload Statistic and Royalty Pool Dilution Analysis",
+   "url": "https://www.forbes.com/sites/daraabasiita/2026/06/22/ai-songs-are-taking-money-from-real-artists-and-investors/",
+   "published": "2026-06-22",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Hell Grind (AI-generated action film at Cannes March\u00e9 du Film)",
+   "url": "https://variety.com/2026/film/features/i-saw-hell-grind-ai-generated-film-cannes-shocking-realistic-1236770720/",
+   "published": "2026-06-10",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Tilly Norwood to star in \"Misaligned\"",
+   "url": "https://www.forbes.com/sites/alisondurkee/2026/07/06/ai-actor-tilly-norwood-will-headline-new-feature-film/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Google Invests $75 Million in A24 for AI Filmmaking Tools",
+   "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+   "published": "2026-06-22",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "\"Inevitability of Artificial Intelligence in Films\" Report / DreadClub: Vampire's Verdict",
+   "url": "https://www.ramanmedianetwork.com/global-entertainment-ai-box-office-trends-2026/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "001",
+   "title": "Inevitability of Artificial Intelligence in Films: The Way Forward (Zenodo research report)",
+   "url": "https://www.rmnstars.com/ai-films-future-enhanced-cinematic-technology/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "AI in Filmmaking: The 2028 Shift (RMN Digital market report)",
+   "url": "https://www.rmndigital.com/ai-films-inevitability-2028-research-report/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "Global Film Entertainment and AI Trends 2026 (Raman Media Network report)",
+   "url": "https://www.ramanmedianetwork.com/global-entertainment-ai-box-office-trends-2026/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "AI in Films Set for $4.6B Boom by 2030 (Raman Media Network research report article)",
+   "url": "https://www.ramanmedianetwork.com/ai-in-films-research-report-2026-global-transition/",
+   "published": "2026-07-05",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "The AI Issue (Hollywood Reporter special feature)",
+   "url": "https://www.hollywoodreporter.com/p/the-ai-issue-2026/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "\"Inevitability of Artificial Intelligence in Films: The Way Forward\" (RMN Stars research report)",
+   "url": "https://www.rmnstars.com/ai-films-future-enhanced-cinematic-technology/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "AI in Filmmaking: The 2028 Shift (RMN Digital analysis of the report)",
+   "url": "https://www.rmndigital.com/ai-films-inevitability-2028-research-report/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "Global Film Entertainment and AI Trends 2026 (Raman Media Network roundup)",
+   "url": "https://www.ramanmedianetwork.com/global-entertainment-ai-box-office-trends-2026/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "The AI Issue (Hollywood Reporter special feature)",
+   "url": "https://www.hollywoodreporter.com/p/the-ai-issue-2026/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "Inevitability of Artificial Intelligence in Films \u2014 The Way Forward (report launch)",
+   "url": "https://www.ramanmedianetwork.com/ai-in-films-research-report-2026-global-transition/",
+   "published": "2026-07-05",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "Global Film Entertainment and AI Trends 2026",
+   "url": "https://www.ramanmedianetwork.com/global-entertainment-ai-box-office-trends-2026/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "AI in Filmmaking: The 2028 Shift",
+   "url": "https://www.rmndigital.com/ai-films-inevitability-2028-research-report/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  },
+  {
+   "cycle": "001",
+   "title": "AI in Films: The Future of Enhanced Cinematic Technology",
+   "url": "https://www.rmnstars.com/ai-films-future-enhanced-cinematic-technology/",
+   "published": "2026-07-03",
+   "fetched_at": "2026-07-10",
+   "source": "anthropic-web-search",
+   "supports": "\"Inevitability of Artificial Intelligence in Films\" Report /"
+  }
+ ]
+}
