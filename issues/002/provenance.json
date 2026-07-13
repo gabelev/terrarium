@@ -1,0 +1,347 @@
+{
+ "render": "autonomous",
+ "evidence": [
+  {
+   "cycle": "002",
+   "title": "Sony v. Suno Copyright Lawsuit \u2014 July 2026 Summary-Judgment Hearing",
+   "url": "https://www.techtimes.com/articles/318471/20260616/ai-music-copyright-lawsuit-suno-discovery-shows-millions-songs-july-ruling-nears.htm",
+   "published": "2026-06-16",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Breaking Rust \u2014 AI Country Artist Tops Billboard/Spotify Charts",
+   "url": "https://en.wikipedia.org/wiki/Breaking_Rust",
+   "published": "2026-07-11",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Suno Studio In-Browser DAW Reviewed Post-v5.5",
+   "url": "https://www.eesel.ai/blog/suno-review",
+   "published": "2026-06-22",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "\"Papaoutai (Afro Soul)\" AI-generated cover",
+   "url": "https://www.forbes.com/sites/entertainment/article/ai-music-artists/",
+   "published": "2026-06-29",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "SZA Slams \"Disgusting\" Artists Using AI",
+   "url": "https://variety.com/2026/music/news/sza-slams-musicians-using-ai-1236786466/",
+   "published": "2026-06-22",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "TIDAL AI Music Royalty Policy",
+   "url": "https://www.aimusicpreneur.com/ai-music-news/tidal-demonetizes-fully-ai-generated-music-2026/",
+   "published": "2026-06-29",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Spotify Drake Fraudulent Streaming Lawsuit Dismissal",
+   "url": "https://www.musicbusinessworldwide.com/spotify-wins-dismissal-of-lawsuit-claiming-it-allowed-billions-of-fraudulent-drake-streams/",
+   "published": "2026-06-22",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Tidal vs Other Streamers AI Policy Comparison (The FADER)",
+   "url": "https://www.thefader.com/2026/06/30/tidal-ai-music-policy-comparison-spotify-apple-soundcloud",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Meta Muse Image AI generator consent backlash",
+   "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Meta launches Muse Image, users push back over photo use",
+   "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+   "published": "2026-07-07",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Meta pulls Muse Image's tagging feature after backlash",
+   "url": "https://www.digitaltrends.com/social-media/meta-just-pulled-its-most-controversial-ai-image-generation-feature-after-days-of-backlash/",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "OpenAI GPT-5.6 (Sol, Terra, Luna) public launch",
+   "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+   "published": "2026-07-08",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "OpenAI GPT-5.6 family detailed launch coverage",
+   "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "OpenAI GPT-Live-1 and GPT-Live-1 mini voice models",
+   "url": "https://releasebot.io/updates/openai",
+   "published": "2026-07-08",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Grok 4.5 public release",
+   "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Three frontier labs launch models same day (GPT-5.6, Grok 4.5, Claude Sonnet/Fable 5)",
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-9-2026",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Sonnet 5 launch and default rollout",
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration",
+   "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://x.com/AnthropicAI/status/2072106151890809341",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.foxbusiness.com/technology/trump-administration-lifts-claude-mythos-5-fable-5-export-restrictions-after-anthropic-works-government",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.cnn.com/2026/06/30/tech/anthropic-export-control-ban-lifted-white-house",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+   "published": "2026-07-12",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://nerdleveltech.com/claude-fable-5-export-controls-relaunch",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+   "published": "2026-07-12",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://x.com/AnthropicAI/status/2072106151890809341",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.forbes.com/sites/siladityaray/2026/07/01/trump-administration-lifts-export-controls-on-anthropics-mythos-5-and-fable-5-ai-models/",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://9to5mac.com/2026/07/01/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://nationalinterest.org/blog/buzz/anthropics-fable-5-platform-back-online-after-export-control-cutoff-ps-070326",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://x.com/AnthropicAI/status/2072106151890809341",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.foxbusiness.com/technology/trump-administration-lifts-claude-mythos-5-fable-5-export-restrictions-after-anthropic-works-government",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+   "published": "2026-07-12",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://www.marketscale.com/industries/software-and-technology/fable-5-and-mythos-5-are-back-what-the-19-day-shutdown-taught-every-enterprise-about-ai-as-infrastructure",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  },
+  {
+   "cycle": "002",
+   "title": "Claude Fable 5 export-control restoration. The US Commerce",
+   "url": "https://platform.claude.com/docs/en/about-claude/models/introducing-claude-fable-5-and-claude-mythos-5",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-13",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 export-control restoration. The US Commerce"
+  }
+ ]
+}
