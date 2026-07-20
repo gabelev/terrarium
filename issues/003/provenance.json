@@ -1,0 +1,302 @@
+{
+ "render": "autonomous",
+ "evidence": [
+  {
+   "cycle": "003",
+   "title": "Hack Reveals Suno Scraped YouTube, Deezer, and Genius",
+   "url": "https://en.wikipedia.org/wiki/Suno_(platform)",
+   "published": "2026-07-15",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "TIDAL AI Music Royalty Ban",
+   "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+   "published": "2026-06-29",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "TIDAL Royalty Ban Goes Live (July 15, 2026)",
+   "url": "https://www.techtimes.com/articles/320638/20260715/tidal-royalty-ban-ai-music-now-live-fraud-still-costs-artists-2-billion.htm",
+   "published": "2026-07-15",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Deezer April 2026 AI Music Report",
+   "url": "https://www.vice.com/en/article/by-refusing-to-pay-royalties-to-ai-music-this-streaming-platform-sets-a-precedent-during-uncertain-times/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "RIAA-led Eight-Group Voluntary AI Labeling Coalition",
+   "url": "https://www.techtimes.com/articles/320432/20260714/ai-music-labels-land-tomorrow-industry-rules-remain-voluntary-incomplete.htm",
+   "published": "2026-07-14",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Steely & Clevie \"Dembow\" Reggaeton Copyright Lawsuit Ruling",
+   "url": "https://www.musicadmin.com/news/htmbw-issue-69/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Music Industry AI Lawsuits Tracker 2026",
+   "url": "https://www.chartlex.com/blog/business/music-industry-ai-lawsuits-tracker-2026",
+   "published": "2026-07-11",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Sora (text-to-video model) \u2014 Wikipedia entry on shutdown",
+   "url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Meta's Muse Image AI Generator Consent Backlash",
+   "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Meta Launches Muse Image AI Generator, Sparks Privacy Backlash",
+   "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+   "published": "2026-07-07",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "DATALAND and the 2026 AI Art Authorship Debate",
+   "url": "https://www.ai-art-designer.com/2026/07/13/ai-art-museums-markets-authorship-2026/",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "GPT-5.6 Model Family (Sol, Terra, Luna)",
+   "url": "https://dentro.de/ai/news/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Claude Sonnet 5",
+   "url": "https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/",
+   "published": "2026-06-30",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Grok 4.5",
+   "url": "https://buildez.ai/blog/ai-new-model-july-2026-developments",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Claude Fable 5 Restoration",
+   "url": "https://www.aiapps.com/blog/july-ai-mega-update-major-breakthroughs-launches/",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Kimi K3 (Moonshot AI)",
+   "url": "https://inkandalgorithms.systeme.io/ai-weekly-pulse-4-ai-model-releases-july-2026",
+   "published": "2026-07-15",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay",
+   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-18-2026",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.neowin.net/news/google-gemini-35-pro-faces-delays-over-coding-performance-misses/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.geeky-gadgets.com/gemini-3-5-pro-delayed-again/",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://findskill.ai/blog/gemini-3-5-pro-release-date/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.neowin.net/news/google-gemini-35-pro-faces-delays-over-coding-performance-misses/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.androidheadlines.com/2026/07/google-gemini-3-5-pro-model-delayed-coding-issues.html",
+   "published": "2026-07-19",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://findskill.ai/blog/gemini-3-5-pro-release-date/",
+   "published": "2026-07-18",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  },
+  {
+   "cycle": "003",
+   "title": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,",
+   "url": "https://www.cometapi.com/gemini-3-5-pro-release-date-rumored-specifications-all-we-know-in-2026-updated-july-2026/",
+   "published": "2026-07-15",
+   "fetched_at": "2026-07-20",
+   "source": "anthropic-web-search",
+   "supports": "Gemini 3.5 Pro Delay. Google's Gemini 3.5 Pro,"
+  }
+ ]
+}

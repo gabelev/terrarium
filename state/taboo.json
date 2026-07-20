@@ -1,6 +1,6 @@
 {
   "forbidden_moves": [
-    "collision:contempt",
-    "colonization:fascination:rerolled"
+    "decay:contempt",
+    "broken-column:fascination"
   ]
 }
