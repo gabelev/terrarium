@@ -1,0 +1,392 @@
+{
+ "render": "autonomous",
+ "evidence": [
+  {
+   "cycle": "004",
+   "title": "Suno AI Music Primer (Music Ally) \u2014 $5.4bn Valuation, Data Breach, AI Labeling Dispute",
+   "url": "https://musically.com/2026/07/23/suno-ai-music-generator-primer-data-breach-valuation-lawsuits/",
+   "published": "2026-07-23",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Suno Expands Music Team with Atlantic/YouTube Executives & Pushback on Label Expansion Request",
+   "url": "https://www.onlyai.fm/ai-music-news",
+   "published": "2026-07-08",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Music Industry AI Lawsuits Tracker \u2014 GEMA v. Suno Munich Verdict Scheduled",
+   "url": "https://www.chartlex.com/blog/business/music-industry-ai-lawsuits-tracker-2026",
+   "published": "2026-07-11",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Suno Lyrics Editor Overhaul (Lyricist, Natural Language Editing)",
+   "url": "https://roo.beehiiv.com/p/suno-lyrics-editor-update-july-2026",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Suno Release Notes \u2014 Soccer Anthem Creator Feature",
+   "url": "https://suno.com/release-notes",
+   "published": "2026-07-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "A Million Colors \u2014 TikTok user reaction/exposure",
+   "url": "https://www.socialpilot.co/blog/tiktok-trends",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "AI Musicians Are Impersonating Broadway Stars (BroadwayWorld investigation)",
+   "url": "https://www.broadwayworld.com/article/AI-Musicians-Are-Impersonating-Broadway-Stars-Why-Wont-Streamers-Fix-It-20260716",
+   "published": "2026-07-16",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "AI-Generated/AI-Assisted music labeling standards roundup (Jack Righteous)",
+   "url": "https://jackrighteous.com/en-us/blogs/mont-real/25-top-artists-who-embrace-ai-in-music-redefining-creativity",
+   "published": "2026-07-19",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "TIDAL AI-music tagging policy / artist pushback (Rolling Stone)",
+   "url": "https://www.rollingstone.com/music/music-features/ai-artists-pushback-sza-doja-cat-1235585855/",
+   "published": "2026-07-20",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "TIDAL AI Music Royalty Ban Goes Live",
+   "url": "https://www.techtimes.com/articles/320638/20260715/tidal-royalty-ban-ai-music-now-live-fraud-still-costs-artists-2-billion.htm",
+   "published": "2026-07-15",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "AI Music Labels Land - Industry Coalition Voluntary Labeling Proposal",
+   "url": "https://www.techtimes.com/articles/320432/20260714/ai-music-labels-land-tomorrow-industry-rules-remain-voluntary-incomplete.htm",
+   "published": "2026-07-14",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Deezer AI Upload Report (April 2026)",
+   "url": "https://www.vice.com/en/article/by-refusing-to-pay-royalties-to-ai-music-this-streaming-platform-sets-a-precedent-during-uncertain-times/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "TIDAL Demonetizes Fully AI-Generated Music",
+   "url": "https://www.aimusicpreneur.com/ai-music-news/tidal-demonetizes-fully-ai-generated-music-2026/",
+   "published": "2026-06-29",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "9 Signals That Matter (Week of July 10, 2026) - Nine North Label Group",
+   "url": "https://www.ninenorthlabelgroup.com/post/9-signals-that-matter-week-of-july-10-2026",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "So So Def Founder (Jermaine Dupri) Royalty Lawsuit vs. Sony",
+   "url": "https://www.musicadmin.com/news/htmbw-issue-69/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Tilly Norwood AI Actor to Star in Feature Film \"Misaligned\"",
+   "url": "https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Tilly Norwood AI Actor Film Denounced by Actors Union",
+   "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-ai-actor-denounced-actors-union-star-feature-film-rcna353134",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Artificial (2026 Film) - Luca Guadagnino's Sam Altman Biopic",
+   "url": "https://en.wikipedia.org/wiki/Artificial_(2026_film)",
+   "published": "2026-07-23",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Meta Muse Image AI Generator Launch",
+   "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+   "published": "2026-07-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Meta Removes Muse Image Feature After Backlash",
+   "url": "https://deadline.com/2026/07/meta-removes-muse-image-ai-feature-backlash-1236979605/",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Meta Muse Image Backlash Over Instagram Photo Use",
+   "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Hollywood Talent Agencies Object to Meta's Muse Image Consent Handling",
+   "url": "https://qz.com/meta-muse-image-instagram-removed-backlash-071326",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Meta Pauses Muse Image Tagging Functionality",
+   "url": "https://jannikhansen.com/en/news/meta-halts-ai-image-tool-after-backlash-over-unauthorized-instagram-photo-use",
+   "published": "2026-07-20",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Axios Report on Meta AI Image Consent Fight",
+   "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Meta Shuts Down AI Image Tool Amid AI Spending Pressure",
+   "url": "https://www.pymnts.com/facebook-meta/2026/meta-shuts-down-ai-image-tool-following-backlash/",
+   "published": "2026-07-10",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "ChatGPT Produced Graphic Violent Images Exploit",
+   "url": "https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Sonnet 5 (Anthropic)",
+   "url": "https://dentro.de/ai/news/",
+   "published": "2026-07-13",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Opus 5 (Anthropic)",
+   "url": "https://aireleasetracker.com/latest",
+   "published": "2026-07-24",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Fable 5 return (Anthropic)",
+   "url": "https://felloai.com/best-ai-models/",
+   "published": "2026-07-25",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta)",
+   "url": "https://thursdai.news/releases/2026-07",
+   "published": "2026-07-06",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://www.datacamp.com/blog/muse-spark-1-1",
+   "published": "2026-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://www.storyboard18.com/brand-makers/mark-zuckerberg-returns-to-x-after-three-years-to-launch-metas-muse-spark-1-1-ai-model-103762.htm",
+   "published": "2026-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://www.inc.com/moses-jeanfrancois/mark-zuckerberg-returned-to-elon-musk-x-after-3-year-why-he-came-back/91372184",
+   "published": "2026-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://cryptobriefing.com/zuckerberg-returns-x-meta-ai-muse-spark/",
+   "published": "2026-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Fable 5 return (Anthropic). The month had",
+   "url": "https://www.anthropic.com/news/redeploying-fable-5",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 return (Anthropic). The month had"
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Fable 5 return (Anthropic). The month had",
+   "url": "https://9to5google.com/2026/07/01/anthropic-fable-5-returns-to-claude/",
+   "published": "2026-07-01",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 return (Anthropic). The month had"
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Fable 5 return (Anthropic). The month had",
+   "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+   "published": "2026-07",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 return (Anthropic). The month had"
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Fable 5 return (Anthropic). The month had",
+   "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
+   "published": "2026-07-24",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 return (Anthropic). The month had"
+  },
+  {
+   "cycle": "004",
+   "title": "Claude Fable 5 return (Anthropic). The month had",
+   "url": "https://www.anthropic.com/claude/fable",
+   "published": "2026-07 (p",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Claude Fable 5 return (Anthropic). The month had"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://www.datacamp.com/blog/muse-spark-1-1",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://www.inc.com/moses-jeanfrancois/mark-zuckerberg-returned-to-elon-musk-x-after-3-year-why-he-came-back/91372184",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  },
+  {
+   "cycle": "004",
+   "title": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to",
+   "url": "https://stocktwits.com/news-articles/markets/equity/mark-zuckerberg-back-on-x-after-3-years-what-he-announced/cZmYRbxR7nh",
+   "published": "2026-07-09",
+   "fetched_at": "2026-07-27",
+   "source": "anthropic-web-search",
+   "supports": "Muse Spark 1.1 (Meta). Mark Zuckerberg returned to"
+  }
+ ]
+}
