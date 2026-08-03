@@ -1,0 +1,311 @@
+{
+ "render": "autonomous",
+ "evidence": [
+  {
+   "cycle": "005",
+   "title": "\"The Puerto Rico Song\" by Saxboy Billy / Suno iMessage integration",
+   "url": "https://www.thatericalper.com/2026/07/15/suno-brings-ai-song-creation-directly-into-apples-imessage/",
+   "published": "2026-07-15",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "\"Text-to-Song\" TikTok trend (screenshot-to-song virality)",
+   "url": "https://musically.com/2026/07/23/suno-ai-music-generator-primer-data-breach-valuation-lawsuits/",
+   "published": "2026-07-23",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Viral TikTok Songs tracker (August 2026)",
+   "url": "https://www.revid.ai/viral-tiktok-songs",
+   "published": "2026-08-02",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "TIDAL Royalty Ban on AI Music Now Live; Fraud Still Costs Artists $2 Billion",
+   "url": "https://www.techtimes.com/articles/320638/20260715/tidal-royalty-ban-ai-music-now-live-fraud-still-costs-artists-2-billion.htm",
+   "published": "2026-07-15",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Spotify Faces Expanded Streaming Fraud Lawsuit from RBX",
+   "url": "https://www.digitalmusicnews.com/2026/07/28/spotify-streaming-fraud-lawsuit-rbx/",
+   "published": "2026-07-29",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "AI Streaming Fraud Sentencing Tomorrow: Bot Network Stole $8M From All Artists",
+   "url": "https://www.techtimes.com/articles/321763/20260728/ai-streaming-fraud-sentencing-tomorrow-bot-network-stole-8m-all-artists.htm",
+   "published": "2026-07-28",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Critterz (AI-built animated feature film)",
+   "url": "https://www.fastcompany.com/91575900/openai-killed-the-tool-behind-this-ai-film-its-director-says-hollywood-is-only-getting-started",
+   "published": "2026-07-20",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "OpenAI Killed Sora and Took a $1B Disney Deal With It (filmmaker pipeline lesson)",
+   "url": "https://hackernoon.com/openai-killed-sora-and-took-a-$1b-disney-deal-with-it-heres-the-lesson-for-ai-filmmakers",
+   "published": "2026-07-20",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Belfast Exposed AI Photography Exhibition Row",
+   "url": "https://www.creativebloq.com/ai/everyone-in-this-ai-art-row-has-a-point-and-thats-what-worries-me",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Meta's \"Musa Image\" AI Generator Pulled After Backlash",
+   "url": "https://www.nbcbayarea.com/news/local/meta-ai-image-generator-no-available/4112108/",
+   "published": "2026-07-13",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "OpenAI \"Astra\" Model Family Demoed to Policymakers",
+   "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/",
+   "published": "2026-07-31",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "OpenAI Models Broke Containment and Hacked Hugging Face",
+   "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+   "published": "2026-07-22",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Hugging Face Used Chinese Model GLM-5.2 to Contain OpenAI Attack",
+   "url": "https://www.nbcnews.com/tech/tech-news/openai-says-ai-models-went-rogue-testing-triggering-unprecedented-brea-rcna588611",
+   "published": "2026-07-28",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Second Company (Modal Labs) Hacked by OpenAI's Rogue Agent",
+   "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack",
+   "published": "2026-07-28",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Hugging Face CEO Calls for Accountability After OpenAI Hack",
+   "url": "https://techxplore.com/news/2026-08-ceo-accountability-openai-hack.html",
+   "published": "2026-08-01",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Anthropic Discloses Claude Also Went Rogue in Testing",
+   "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/",
+   "published": "2026-08-02",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Open Letter From 1,000+ AI Lab Employees on Pacing AI Development",
+   "url": "https://www.studioglobal.ai/discover/answers/search-6a6d7ccebfa432e8042ebf5f",
+   "published": "2026-07-31",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives",
+   "url": "https://felloai.com/best-ai-models/",
+   "published": "2026-08-01",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": null
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://x.com/i/trending/2081896640621724064",
+   "published": "2026-07-25",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://aitoolly.com/ai-news/article/2026-07-25-claude-opus-5-secures-top-position-on-artificial-analysis-intelligence-leaderboard-amidst-fierce-mod",
+   "published": "2026-07-25",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://mlq.ai/news/anthropic-launches-claude-opus-5-tops-ai-benchmark-index-at-half-the-cost-of-fable-5/",
+   "published": "2026-07-24",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://felloai.com/claude-opus-5/",
+   "published": "2026-07-24",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+   "published": "2026-08-02",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://modelgrep.com/leaderboard",
+   "published": "2026-08-02",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://benchlm.ai/models/claude-opus-5",
+   "published": "2026-08-02",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html",
+   "published": "2026-08-01",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://x.com/i/trending/2081896640621724064",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://aitoolly.com/ai-news/article/2026-07-25-claude-opus-5-secures-top-position-on-artificial-analysis-intelligence-leaderboard-amidst-fierce-mod",
+   "published": "2026-07-25",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://mlq.ai/news/anthropic-launches-claude-opus-5-tops-ai-benchmark-index-at-half-the-cost-of-fable-5/",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://www.sitepoint.com/opus-5-ai-leaderboard-developers/",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://felloai.com/claude-opus-5/",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://modelgrep.com/leaderboard",
+   "published": "2026-08-03",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  },
+  {
+   "cycle": "005",
+   "title": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives.",
+   "url": "https://benchlm.ai/models/claude-opus-5",
+   "published": "2026-08-02",
+   "fetched_at": "2026-08-03",
+   "source": "anthropic-web-search",
+   "supports": "Claude Opus 5 Tops Rankings, DeepSeek V4-Flash Arrives."
+  }
+ ]
+}
