@@ -1,6 +1,6 @@
 {
   "forbidden_moves": [
-    "scale-violence:contempt",
-    "colonization:fascination:rerolled"
+    "scale-violence:contempt:rerolled",
+    "colonization:fascination"
   ]
 }
