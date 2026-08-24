@@ -1,6 +1,6 @@
 {
   "forbidden_moves": [
-    "scale-violence:contempt",
-    "bleed:fascination"
+    "scale-violence:contempt:rerolled",
+    "broken-column:fascination"
   ]
 }
